@@ -6,9 +6,6 @@ Here is a README file that you can use for your text-to-image generation project
 
 This project is a web-based application that generates images from text descriptions using the Stable Diffusion model. It provides an interactive interface where users can input a text prompt and receive a corresponding AI-generated image.
 
-## 📸 Demo
-
-*(Here you can add a GIF or screenshots showing the text-to-image generation process and the results)*
 
 ## ✨ Features
 
